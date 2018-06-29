@@ -4,7 +4,7 @@
  * Licensed under the Apache License, Version 2.0 (the "License");
  */
 
-package com.jldata.pgsminiapp.sdk.encrypt;
+package com.jldata.pgsminiapp.sdk.common.encrypt;
 
 
 import com.jldata.pgsminiapp.core.kit.Base64Kit;

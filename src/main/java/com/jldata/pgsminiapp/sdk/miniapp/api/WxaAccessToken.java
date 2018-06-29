@@ -4,11 +4,12 @@
  * Licensed under the Apache License, Version 2.0 (the "License");
  */
 
-package com.jldata.pgsminiapp.sdk.api;
+package com.jldata.pgsminiapp.sdk.miniapp.api;
 
-import com.jfinal.weixin.sdk.api.ReturnCode;
+
 import com.jfinal.weixin.sdk.utils.JsonUtils;
 import com.jfinal.weixin.sdk.utils.RetryUtils.ResultCheck;
+import com.jldata.pgsminiapp.sdk.common.api.ReturnCode;
 
 import java.io.Serializable;
 import java.util.Map;

@@ -4,11 +4,13 @@
  * Licensed under the Apache License, Version 2.0 (the "License");
  */
 
-package com.jldata.pgsminiapp.sdk.api;
+package com.jldata.pgsminiapp.sdk.miniapp.api;
 
 import com.jfinal.weixin.sdk.api.ApiResult;
-import com.jfinal.weixin.sdk.api.MediaFile;
-import com.jfinal.weixin.sdk.utils.HttpUtils;
+
+import com.jldata.pgsminiapp.sdk.utils.HttpUtils;
+import com.jldata.pgsminiapp.sdk.utils.MediaFile;
+
 
 import java.io.File;
 

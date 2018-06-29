@@ -6,7 +6,7 @@
 
 // ------------------------------------------------------------------------
 
-package com.jldata.pgsminiapp.sdk.encrypt;
+package com.jldata.pgsminiapp.sdk.common.encrypt;
 
 
 

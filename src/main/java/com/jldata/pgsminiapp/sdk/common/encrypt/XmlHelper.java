@@ -1,4 +1,4 @@
-package com.jldata.pgsminiapp.sdk.encrypt;
+package com.jldata.pgsminiapp.sdk.common.encrypt;
 
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
